@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//this comment is for tracking changes with git purposes
 
 public class StringCalculator {
 
